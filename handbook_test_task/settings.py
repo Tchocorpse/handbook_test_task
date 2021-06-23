@@ -54,7 +54,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'komtek_task.urls'
+ROOT_URLCONF = 'handbook_test_task.urls'
 
 TEMPLATES = [
     {
