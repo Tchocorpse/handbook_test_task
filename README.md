@@ -1,1 +1,0 @@
-# handbook_test_task
